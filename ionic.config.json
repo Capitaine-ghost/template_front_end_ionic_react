@@ -1,0 +1,7 @@
+{
+  "name": "ece-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
